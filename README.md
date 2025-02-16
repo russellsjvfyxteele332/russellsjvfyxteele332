@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm russellsjvfyxteele332
 
-<!--
-**russellsjvfyxteele332/russellsjvfyxteele332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛶 🎪 A professional in product management 🛶 🎪
 
-Here are some ideas to get you started:
+## About Me
+🎵 🥊 Interested in algorithms 🎵 🥊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🛼 🎮 🎮 A passionate developer who loves cybersecurity 🛼 🎮 🎮
+
+### Fun Facts
+🛹 🏒 🏏 🏓 A coder in devops 🛹 🏒 🏏 🏓
+
+---
+🎮 💡 🏄 🎽 🎯 Thanks for visiting my profile! 🏏 🎣 🎮 🎰 🥁
